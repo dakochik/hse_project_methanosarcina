@@ -37,5 +37,15 @@ GCF_000007065 1_ASM706v1:
 ![GCF_000007065 1_ASM706v1_genomic](https://user-images.githubusercontent.com/55440084/170326465-11b20abb-b9a9-4803-bdb0-03779c7808b6.png)  
   
 ## 4. Z-ДНК и гомологичные гены разных организмов
-  
+Для демонстрации было выбрано 8 кластеров. В некоторых из них во всех гомологичных белках сохраняются участки Z-ДНК, в некоторых - нет (такие кластеры были выбраны специально для иллюстрации). Порядок орагнизмов соответсвует порядку в приведенной ранее таблице (см. п. 1).  
+![image](https://user-images.githubusercontent.com/55440084/172065655-85332378-cf7a-408f-b83c-c658056cbc7f.png)
+![image](https://user-images.githubusercontent.com/55440084/172065671-5a5df8b1-12e2-4191-ac9b-21b34b790145.png)
+![image](https://user-images.githubusercontent.com/55440084/172065683-626d00af-8a21-4487-920f-7bfbc017fda2.png)
+![image](https://user-images.githubusercontent.com/55440084/172065691-d4949f77-fbb2-495f-98c9-cecee9bca7be.png)
+![image](https://user-images.githubusercontent.com/55440084/172065697-7381de26-8fdd-484f-8389-e918dda58cee.png)
+![image](https://user-images.githubusercontent.com/55440084/172065704-12bb725b-974e-4260-9549-c10c93476efa.png)
+![image](https://user-images.githubusercontent.com/55440084/172065718-583bb523-0d86-415b-8b76-94f70ba19acb.png)
+![image](https://user-images.githubusercontent.com/55440084/172065740-1adb1176-d796-4d38-8a48-be2398e66fc6.png)
+
+
 ## 5. Предсказание G-квадруплексов
