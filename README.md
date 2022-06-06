@@ -16,7 +16,7 @@
 *- участков Z-ДНК с zh-score > 500
 ## 2. Распределение участнов Z-ДНК
 Распределение Z-ДНК по промоторам, гену и межгенному пространству:  
-![image](https://user-images.githubusercontent.com/55440084/171504166-46885ae6-55cb-449a-bb5c-8168cdab35b8.png)
+![image](https://user-images.githubusercontent.com/55440084/172193249-580876b0-bafd-4e14-b3f3-f6e45ca0e938.png)
 
  
 ## 3. Гистограмма значений zh-score 
@@ -62,31 +62,31 @@ GCF_000007065 1_ASM706v1:
             <td rowspan=1>WP_011032848.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>1201</td>
         </tr>
         <tr>
             <td rowspan=1>WP_048167316.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>2962</td>
         </tr>
         <tr>
             <td rowspan=1>WP_048122363.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>2962</td>
         </tr>
         <tr>
             <td rowspan=1>WP_048124614.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>2962</td>
         </tr>
         <tr>
             <td rowspan=1>WP_054299839.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>1201</td>
         </tr>
     </tbody>
     <tbody>
@@ -96,31 +96,31 @@ GCF_000007065 1_ASM706v1:
             <td rowspan=1>WP_011033897.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>908</td>
         </tr>
         <tr>
             <td rowspan=1>WP_048167122.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>908</td>
         </tr>
         <tr>
             <td rowspan=1>WP_011306735.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>908</td>
         </tr>
         <tr>
             <td rowspan=1>WP_048127780.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>908</td>
         </tr>
         <tr>
             <td rowspan=1>WP_054300002.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>908</td>
         </tr>
     </tbody>
     <tbody>
@@ -130,31 +130,31 @@ GCF_000007065 1_ASM706v1:
             <td rowspan=1>WP_011032293.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>883</td>
         </tr>
         <tr>
             <td rowspan=1>WP_011032293.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>2943</td>
         </tr>
         <tr>
             <td rowspan=1>WP_048121098.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>2943</td>
         </tr>
         <tr>
             <td rowspan=1>WP_011023130.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>2943</td>
         </tr>
         <tr>
             <td rowspan=1>WP_011032293.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>883</td>
         </tr>
     </tbody>
     <tbody>
@@ -164,31 +164,31 @@ GCF_000007065 1_ASM706v1:
             <td rowspan=1>WP_011033697.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>731, 783</td>
         </tr>
         <tr>
             <td rowspan=1>WP_048167854.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>731</td>
         </tr>
         <tr>
             <td rowspan=1>WP_048117809.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>731</td>
         </tr>
         <tr>
             <td rowspan=1>WP_048124440.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>731</td>
         </tr>
         <tr>
             <td rowspan=1>WP_054297845.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>731</td>
         </tr>
     </tbody>
     <tbody>
@@ -204,25 +204,25 @@ GCF_000007065 1_ASM706v1:
             <td rowspan=1>WP_048167159.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>959</td>
         </tr>
         <tr>
             <td rowspan=1>WP_048118415.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>4576</td>
         </tr>
         <tr>
             <td rowspan=1>WP_048127553.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>959</td>
         </tr>
         <tr>
             <td rowspan=1>WP_054297609.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>1122</td>
         </tr>
     </tbody>
     <tbody>
@@ -232,13 +232,13 @@ GCF_000007065 1_ASM706v1:
             <td rowspan=1>WP_011032199.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>883</td>
         </tr>
         <tr>
             <td rowspan=1>WP_048166057.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>883</td>
         </tr>
         <tr>
             <td rowspan=1>WP_048119173.1</td>
@@ -250,13 +250,13 @@ GCF_000007065 1_ASM706v1:
             <td rowspan=1>WP_048126706.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>883</td>
         </tr>
         <tr>
             <td rowspan=1>WP_054297806.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>883</td>
         </tr>
     </tbody>
     <tbody>
@@ -265,32 +265,32 @@ GCF_000007065 1_ASM706v1:
             <td rowspan=5>5</td>
             <td rowspan=1>WP_011032516.1</td>
             <td rowspan=1>Функция</td>
-            <td rowspan=1>?</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>Нет</td>
+            <td rowspan=1>-</td>
         </tr>
         <tr>
             <td rowspan=1>WP_231588106.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>2659</td>
         </tr>
         <tr>
             <td rowspan=1>WP_048117996.1</td>
             <td rowspan=1>Функция</td>
-            <td rowspan=1>?</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>Тело гена</td>
+            <td rowspan=1>2779</td>
         </tr>
         <tr>
             <td rowspan=1>WP_048127129.1</td>
             <td rowspan=1>Функция</td>
-            <td rowspan=1>?</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>Тело гена</td>
+            <td rowspan=1>8485</td>
         </tr>
         <tr>
             <td rowspan=1>WP_054298565.1</td>
             <td rowspan=1>Функция</td>
-            <td rowspan=1>?</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>Нет</td>
+            <td rowspan=1>-</td>
         </tr>
     </tbody>
     <tbody>
@@ -299,32 +299,32 @@ GCF_000007065 1_ASM706v1:
             <td rowspan=5>5</td>
             <td rowspan=1>WP_011034141.1</td>
             <td rowspan=1>Функция</td>
-            <td rowspan=1>?</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>Тело гена</td>
+            <td rowspan=1>731</td>
         </tr>
         <tr>
             <td rowspan=1>WP_048168165.1</td>
             <td rowspan=1>Функция</td>
-            <td rowspan=1>?</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>Тело гена</td>
+            <td rowspan=1>752, 731</td>
         </tr>
         <tr>
             <td rowspan=1>WP_048124226.1</td>
             <td rowspan=1>Функция</td>
-            <td rowspan=1>?</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>Тело гена</td>
+            <td rowspan=1>731</td>
         </tr>
         <tr>
             <td rowspan=1>WP_232308693.1</td>
             <td rowspan=1>Функция</td>
-            <td rowspan=1>?</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>Тело гена</td>
+            <td rowspan=1>731, 752</td>
         </tr>
         <tr>
             <td rowspan=1>WP_054298578.1</td>
             <td rowspan=1>Функция</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>Score</td>
+            <td rowspan=1>731</td>
         </tr>
     </tbody>
 </table>
@@ -333,14 +333,14 @@ GCF_000007065 1_ASM706v1:
   
 ### 4.4. Визуализация расположения участков Z-DNA
 Для демонстрации было выбрано 8 кластеров. В некоторых из них во всех гомологичных белках сохраняются участки Z-ДНК, в некоторых - нет (такие кластеры были выбраны специально для иллюстрации). Порядок орагнизмов соответсвует порядку в приведенной ранее таблице (см. п. 1).  
-![image](https://user-images.githubusercontent.com/55440084/172065655-85332378-cf7a-408f-b83c-c658056cbc7f.png)
-![image](https://user-images.githubusercontent.com/55440084/172065671-5a5df8b1-12e2-4191-ac9b-21b34b790145.png)
-![image](https://user-images.githubusercontent.com/55440084/172065683-626d00af-8a21-4487-920f-7bfbc017fda2.png)
-![image](https://user-images.githubusercontent.com/55440084/172065691-d4949f77-fbb2-495f-98c9-cecee9bca7be.png)
-![image](https://user-images.githubusercontent.com/55440084/172065697-7381de26-8fdd-484f-8389-e918dda58cee.png)
-![image](https://user-images.githubusercontent.com/55440084/172065704-12bb725b-974e-4260-9549-c10c93476efa.png)
-![image](https://user-images.githubusercontent.com/55440084/172065718-583bb523-0d86-415b-8b76-94f70ba19acb.png)
-![image](https://user-images.githubusercontent.com/55440084/172065740-1adb1176-d796-4d38-8a48-be2398e66fc6.png)
+![image](https://user-images.githubusercontent.com/55440084/172192722-7ba256f7-c755-4b08-85ec-cd6026c6aec7.png)
+![image](https://user-images.githubusercontent.com/55440084/172192776-78c8ecc9-4f51-48b6-be6b-80350876d888.png)
+![image](https://user-images.githubusercontent.com/55440084/172192850-0bc987ab-b3f1-4bb2-875c-b934d7fb5c2c.png)
+![image](https://user-images.githubusercontent.com/55440084/172192903-bd73299b-803d-4596-9f7f-6fa788fcf47f.png)
+![image](https://user-images.githubusercontent.com/55440084/172192957-568c5e8e-8ae7-4e3e-93b3-fa735c0ef987.png)
+![image](https://user-images.githubusercontent.com/55440084/172193003-d1db2ad0-b3b5-419e-ab5f-9eaa364c383d.png)
+![image](https://user-images.githubusercontent.com/55440084/172193042-72da5c90-e639-4d61-b17e-8419c0447eac.png)
+![image](https://user-images.githubusercontent.com/55440084/172193088-345bd1f7-b43b-4cc5-bbe3-d93f976bade3.png)
 
 
 ## 5. Предсказание G-квадруплексов
