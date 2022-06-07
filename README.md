@@ -23,6 +23,13 @@
 
  
 ## 3. Гистограмма значений zh-score 
+Гистограммы значений zh-score для выбранных геномов:  
+![image](https://user-images.githubusercontent.com/55440084/172479313-cfa6efe3-ef4a-43e0-a16f-3c19553ed282.png)
+![image](https://user-images.githubusercontent.com/55440084/172479345-17060b90-22b4-4927-9136-909759fb84a7.png)
+![image](https://user-images.githubusercontent.com/55440084/172479385-488c21c4-ee1b-4d61-9f03-6d98f5872726.png)
+![image](https://user-images.githubusercontent.com/55440084/172479417-313b7eac-8456-43da-b3c9-aa36a27ed2b3.png)
+![image](https://user-images.githubusercontent.com/55440084/172479457-1beaf556-3213-434b-868a-09f448a9c9be.png)
+  
 Попытка отобразить распредление значений zh-score по всему геному. Зеленым обозначены участки Z-DNA, размер столбца описывает величину zh-score. Красным - аннотированные гены.  
 GCF_001304615 2_ASM130461v2:  
 ![GCF_001304615 2_ASM130461v2_genomic](https://user-images.githubusercontent.com/55440084/170326236-eb3bc7b0-ea4b-40aa-9916-57aa10b16d19.png)  
